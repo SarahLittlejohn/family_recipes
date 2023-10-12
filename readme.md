@@ -1,4 +1,4 @@
-# Littlejohn's secret recipes
+# Clan's secret recipes
 
 Set of recipes as given by my grandma.
 
