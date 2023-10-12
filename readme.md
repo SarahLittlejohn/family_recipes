@@ -1,4 +1,4 @@
-# Littlejohn's secret recipes
+# Littlejohn's mysterious recipes
 
 Set of recipes as given by my grandma.
 
